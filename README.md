@@ -1,2 +1,2 @@
-# jupyterNB
-jupyter notebook test
+# CisAi-Course
+Cis Ai Course for learning
