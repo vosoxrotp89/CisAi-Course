@@ -1,0 +1,15 @@
+{
+{Congestion Management } :
+{Queuing and Scheduling - Different types of traffic are placed into different queues. Cisco devices support multiple 
+queuing strategies, including Low Latency Queuing (LLQ) for real-time traffic and Weighted Fair Queuing (WFQ) for fair 
+bandwidth distribution between flows.  Congestion Avoidance - Techniques such as Weighted Random Early Detection (WRED)
+manage queue lengths by dropping lower-priority packets before the queue becomes full. This prevents congestion and 
+maintains flow.  The figure below shows an example of a cable with QSFP connectors on both sides of the cable (also 
+called Direct Attach Cables [DAC]). },
+
+{Traffic Policing and Shaping } :
+{Policing - Controls the traffic rate by dropping or marking packets that exceed defined thresholds. Single-rate and 
+dual-rate policers can be used to enforce different levels of service.  Shaping - Smooths out traffic bursts by buffering 
+packets and sending them at a defined rate. Traffic shaping is often used at the network edge to ensure traffic compliance
+with traffic contracts and prevent congestion in the core network. }
+}

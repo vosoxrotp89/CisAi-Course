@@ -1,0 +1,22 @@
+{
+{Virtual storage area network (VSAN) } :
+{VSAN aggregates local storage from multiple servers into a shared storage pool within a cluster. It allows using direct attached storage (DAS) in virtualized environments without traditional shared storage arrays. },
+
+{Scale-out file systems } :
+{These distributed file systems scale horizontally by adding nodes. They offer a unified namespace for managing files across multiple servers, ensuring high performance and scalable capacity. },
+
+{Software-defined object storage } :
+{Software-defined object storage solutions cater to object storage needs with features such as multi-tenancy, data replication, and lifecycle management, ideal for large-scale data environments. },
+
+{Software-defined block storage } :
+{These solutions manage block-level storage with capabilities like snapshots, thin provisioning, and replication, running on standard server hardware. },
+
+{Software-defined storage for SANs } :
+{Software-defined storage solutions for SANs centralize storage management and virtualize SAN resources, simplifying provisioning and optimization in SAN environments. },
+
+{Software-defined storage for cloud } :
+{Designed for cloud environments, these software-defined storage solutions enable scalable and flexible storage systems while abstracting underlying infrastructure complexities. },
+
+{Hyperconverged infrastructure (HCI) } :
+{HCI integrates compute, storage, and networking into a unified, software-defined platform. It often includes software-defined storage features for efficient storage management alongside compute resources. }
+}

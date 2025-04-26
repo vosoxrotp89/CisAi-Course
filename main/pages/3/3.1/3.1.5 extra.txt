@@ -1,0 +1,12 @@
+{
+{Enhanced Ethernet} :
+{Achieves better fabric utilization by considering the load of the links to load balance the traffic. The network
+maintains its state since flows can only be rebalanced when idle. },
+
+{Ultra Ethernet} :
+{Achieves even better fabric utilization than Enhanced Ethernet by using endpoint-controlled adaptive packet spraying. },
+
+{scheduled Ethernet} :
+{Enables fabric-controlled optimal load balancing with the &quot;spray and reorder&quot; method. It achieves maximum
+performance by avoiding head-of-the-line (HoL) blocking and incast congestion avoidance. }
+}

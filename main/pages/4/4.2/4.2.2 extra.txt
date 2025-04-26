@@ -1,0 +1,10 @@
+{
+{Cisco Nexus 9500 Series } :
+{Features: Modular switches, scalable up to 36 Tbps, 1, 10, 25, 40, 50, 100, 200, and 400 Gbps interfaces  
+Use case: Core and aggregation layers in large-scale data centers  The figure below shows an example of a cable with 
+QSFP connectors on both sides of the cable (also called Direct Attach Cables [DAC]). },
+
+{Cisco Nexus 9800 Series } :
+{Features: Modular switches, scalable from 57 to 115 Tbps, 100 and 400 Gbps interfaces.  Use case: Core and aggregation 
+layers in cloud-scale data centers, spine, and super-spine deployments. }
+}

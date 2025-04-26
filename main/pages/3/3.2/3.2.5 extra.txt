@@ -1,0 +1,9 @@
+{
+{Enhanced Ethernet} :
+{Offers better performance using stateful processing and telemetry to move flows to less congested links. },
+
+{Scheduled Ethernet} :
+{A foundation for private cloud deployments, offering flexibility to run diverse workloads. Support for multiple 
+hypervisors, allowing organizations to choose the best virtualization platform for their needs. This versatility 
+enables hybrid cloud scenarios by providing a consistent platform that can extend to public cloud services. }
+}

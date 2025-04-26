@@ -1,0 +1,12 @@
+{
+{Priority Flow Control } :
+{Priority Flow Control was introduced in Layer 2 networks as the primary mechanism to enable lossless Ethernet. Flow control 
+was driven by the class of service (CoS) value in the Layer 2 frame, and congestion is signaled and managed using pause 
+frames, and a pause mechanism. However, building scalable Layer 2 networks can be challenging for network administrators.
+Because of this, network designs have mostly evolved into Layer 3 routed fabrics.  To support traffic routing, PFC was 
+adjusted to work with differentiated services code point (DSCP) priorities to signal congestion between routed hops in 
+the network. Using Layer 3 marking enables traffic to maintain classification marking across routers.   Since PFC frames 
+use local link addressing, the network devices can receive and perform pause signaling for routed and switched traffic. 
+PFC is transmitted per hop, from the place of congestion to the traffic source. PFC is used as the primary tool to manage 
+congestion for RoCEv2 transport. }
+}

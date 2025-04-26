@@ -1,0 +1,19 @@
+{
+
+{Operations} :
+{An API-first design lets organizations use DevOps tools including HashiCorp Terraform and Red Hat Ansible to fully 
+automate the provisioning and operations of their environment. },
+
+{Management} :
+{As a cloud management solution, Cisco Nexus HyperFabric provides a single point of configuration, monitoring, and 
+maintenance of all tenant customer fabrics. It uses a real-time connection to switches deployed on-premises or in 
+colocation facilities. Cisco automation and operations staff are responsible for the cloud controller, the fabric 
+underlay network, and the software upgrade process. Organizations maintain direct control of all interconnections to 
+their applications, hosts, and the rest of their network. },
+
+{Monitoring} :
+{Assertion-based monitoring continuously verifies the availability and reliability of the fabric and connected resources,
+and the root cause of any issue detected is immediately identified. Self-service fabric tenancies empower host and 
+application teams to monitor and manage the fabric services they have been allocated, removing their need to depend on IT
+for most support services. }
+}

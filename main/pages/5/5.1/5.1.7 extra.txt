@@ -1,0 +1,54 @@
+{
+{Data Center Infrastructure Costs } :
+{When discussing data center infrastructure costs, costs for renting or rebuilding a space for data center, cooling, 
+adequate power supply, uninterruptible power supply (UPS), and safety equipment (such as IT-compatible fire alarm and 
+extinguisher systems and early fire detection systems) need to be considered.  This cost does not apply when the 
+infrastructure is in the cloud. },
+
+{Operational Costs } :
+{Electricity costs for power consumption to power servers, storage, networking, and cooling, need to be considered as 
+operational costs. Also, regular maintenance and upgrade of hardware components need to be considered to ensure 
+continuous operation.   In addition to hardware components, software maintenance, such as updates and patches for system 
+software and firmware need to be considered. },
+
+{Compliance Costs } :
+{Compliance costs typically increase as the regulation around an industry increases. With the development of AI-based 
+technologies, regulatory and legal challenges are emerging. The European Union, the United States, and several other 
+countries are all working on regulating this technology. Global companies that have operations all over the world face 
+higher compliance costs than a company operating solely in one location due to various legal requirements.   However, 
+it is important to acknowledge that AI systems should also comply with current regulations and standards and meet 
+ethical, security, and robustness requirements. },
+
+{Downtime Costs } :
+{While you could include downtime along with the operational costs, the downtime is often so large that it is recommended 
+to have it in its own category. Downtime involves the costs of employees whose work is delayed and who address the issue, 
+costs from lost production, and possibly lost customers from inability to meet time expectations. },
+
+{Cloud versus On-Premises Costs } :
+{When considering costs, there is an important distinction between cloud and on-premises infrastructure.  For cloud 
+computing, you must take the following costs into the account:  Cloud service fees, in case you are using a cloud 
+service provider. Scaling costs, which might be temporary based on the workload. Data transfer costs, in case you go 
+over the subscribed data usage threshold.  For on-premises computing, the following costs need to be considered:  
+Higher costs for setting up the infrastructure (hardware and data center infrastructure costs). Regular upgrade of 
+hardware components to achieve cutting-edge performance if such are the requirements (includes servers, storage, 
+networking, or individual components like GPUs). Resource utilization: Can all hardware be efficiently used compared 
+to cloud computing where you only pay for the compute in use. },
+
+{Training and Support Costs } :
+{A percentage of the costs must also be associated with staff to use and manage the new technologies, including the 
+training phases. This includes system administrators, software developers, data science engineers, and scientists. },
+
+{Scalability Costs } :
+{Scalability refers to enhancing a system’s capacity to manage an increased workload effectively. It is a long-term 
+strategy. It involves either upgrading the capabilities of existing resources (scaling up) or incorporating additional 
+resources to share the load (scaling out). Scaling up might include boosting memory, processing power, or storage 
+within the current setup.  In the short term, you need to consider the following:  Elasticity: Defined as &quot;the 
+degree to which a system is able to adapt to workload changes by provisioning and de-provisioning resources in an 
+autonomic manner so that the available resources match the current demand as closely as possible.&quot; Such an 
+example would be GPU partitioning when having multiple workloads that might not need all the compute that is 
+currently available. Over-provisioning: It refers to the practice of allocating more than needed computing resources 
+(such as CPU, memory, and storage) to a system or network, incurring unnecessary costs. Under-provisioning: It refers 
+to the practice of allocating less computing resources to a system or network than needed, leading to reduced 
+performance and possible downtime (out-of-memory exceptions, all storage consumed).  Based on your compute requirements 
+and time constraints (for example, to train an AI model), these options need to be factored in. }
+}

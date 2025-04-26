@@ -1,0 +1,11 @@
+{
+{Connection Establishment} :
+{RoCEv2 establishes connections using IP addresses and UDP ports, whereas RoCEv1 uses Ethernet MAC addresses.  },
+
+{Data Transfer} :
+{Data is transferred directly between registered memory regions using RDMA read, write, or send operations, 
+bypassing the CPU.  },
+
+{Completion Handling} :
+{After operations are completed, completion queues are updated to signal the application's completion status.  }
+}

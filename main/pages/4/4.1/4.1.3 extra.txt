@@ -1,0 +1,10 @@
+{
+{Memory Verbs} :
+{Memory verbs are also known as memory semantics. In this communication style, the destination host registers a buffer in 
+its memory space and passes control of that buffer to a source host.   The source host can then issue RDMA Read and Write 
+operations, which allow reading from and writing to a remote memory, respectively. RDMA Atomic operations are also 
+supported. These enable synchronization in distributed systems by ensuring atomicity via operations such as 
+compare-and-swap and fetch-and-add performed on a remote memory. Some vendors offer additional proprietary enhancements 
+as well.   Memory verbs operations do not require any confirmation from the remote machine because the sending side has 
+visibility and control of the remote buffer. }
+}

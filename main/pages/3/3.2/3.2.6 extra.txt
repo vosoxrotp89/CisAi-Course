@@ -1,0 +1,20 @@
+{
+{Link Layer} :
+{Point-to-point link operations and switching within a local subnet. The Subnet Manager assigns a 16-bit Local ID (LID)
+to all devices within a subnet.   All packets sent within a subnet use the LID for addressing. },
+
+{Network Layer} :
+{Responsible for packet routing. },
+
+{Transport Layer} :
+{Responsible for in-order packet delivery, partitioning, channel multiplexing, and transport services (reliable 
+connection, reliable datagram, unreliable connection, unreliable datagram, raw datagram).  Part of the transport layer is 
+also InfiniBand Architecture (IBA) Subnet Administration and Routing (SAR):  Subnet Administration: This involves managing 
+the configuration and operation of the InfiniBand subnet, including tasks like assigning addresses, managing routing 
+tables, and ensuring efficient data flow. Routing: InfiniBand uses a sophisticated routing mechanism to ensure data 
+packets are delivered efficiently across the network. This includes both unicast and multicast routing. },
+
+{Upper Layer} :
+{Enables client transactions. }
+
+}

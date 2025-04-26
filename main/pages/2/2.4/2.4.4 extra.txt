@@ -1,0 +1,22 @@
+{
+{Air Cooling} :
+{Air cooling is considered the traditional way of cooling a data center. This method uses air conditioning, fans, and 
+vents to keep the data center cool.   While air cooling is one of the more common ways to cool a data center, it is not
+very energy efficient, resulting in fairly high-power usage. },
+
+{Evaporative Cooling} :
+{Evaporative cooling uses fans to draw in air and uses evaporation to cool the air before directing it toward the
+equipment. This method can be more energy efficient than traditional methods, but it depends a reliable source of water.
+Also, deploying an evaporating cooling system in an existing data center could be costly, requiring a significant overhaul
+of the center. },
+
+{Liquid Cooling} :
+{Liquid cooling uses a technique that is very similar to the way a radiator cools a car engine. This method uses cool
+liquid running through the data center to absorb heat. Liquid cooling is quickly becoming one of the most popular data 
+center cooling methods. It is estimated that up to 40% of data centers use some type of liquid cooling.  With direct 
+liquid cooling, the liquid passes through a manifold that is directly attached to the device. This method provides 
+better heat removal than traditional air cooling, but it requires large amounts of local water and can cause environmental 
+concerns if leaks occur.  Another form of liquid cooling, immersion cooling, submerses the computing devices into a 
+non-conductive liquid. While this method is very effective, it is not very common due to the cost of implementation and 
+other potential risks. }
+}
